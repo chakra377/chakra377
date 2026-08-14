@@ -1,21 +1,9 @@
 ### Hi There 👋
 
-### About Me
-
-<div>
-  <p>
-    I'm a senior AI and blockchain developer and PM. I thrive on working with innovative projects and excel in leading teams to achieve outstanding results.
-  </p>
-  
-
-  <ul>
-  <li>💡 <strong>Blockchain Master</strong>: Deep expertise in smart contracts, Dapp, DeFi, NFTs, web3 Game and scalable blockchain solutions.</li>
-  <li>🧠 <strong>AI Innovator</strong>: Leveraging AI and machine learning to build intelligent, adaptive systems—from smart analytics to autonomous agents in Web3 and beyond.</li>
-  <li>🛠 <strong>Full-Stack Excellence</strong>: From backend architecture to frontend UX, I ensure seamless, high-impact results.  </li>
-  <li>🔥 <strong>Team Leadership</strong>: I don’t just manage teams; I inspire them to create high-performance, game-changing solutions</li>
-</ul>
-If you're working on something that demands expertise, execution, and vision-let’s talk.
-</div>
+<p> I enjoy coding, exploring new technologies, and experimenting with different ideas. </p>
+<p> I'm particularly interested in <strong>AI</strong> and enjoy experimenting with new models, agent architectures, and different approaches to building AI-powered applications. </p>
+<p> I also enjoy full-stack development and learning by building things from scratch. Most of my projects are a way to explore new ideas, test what works, and learn something along the way. </p>
+<p> <i>Code → Experiment → Learn → Repeat</i> </p>
 
 ### Languages & Tools
 
